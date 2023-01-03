@@ -17,7 +17,6 @@ mkdir emojis
 cd emojis
 curl -LO https://raw.githubusercontent.com/wiki/mintty/mintty/getemojis
 ./getemojis -d
-./getemojis .
 ```
 
 ## config
