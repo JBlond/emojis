@@ -8,7 +8,7 @@ or
 
 `C:\git-sdk-64\usr\share\mintty\emojis`
 
-[Download 1.1.0](https://github.com/JBlond/emojis/archive/refs/tags/1.1.0.zip)
+[Download 1.2.0](https://github.com/JBlond/emojis/archive/refs/tags/1.2.0.zip)
 
 ## OR make the emojis yourself
 
