@@ -25,3 +25,9 @@ curl -LO https://raw.githubusercontent.com/wiki/mintty/mintty/getemojis
 Mintty -> Options -> Text -> Emojis -> Style -> google
 
 Mintty -> Options -> Text -> Emojis -> Placement -> middle
+
+## LICENSE
+
+[The emoji font is licensed unter SIL](https://raw.githubusercontent.com/googlefonts/noto-emoji/main/LICENSE)
+
+This repo is under MIT License
