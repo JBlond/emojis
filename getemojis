@@ -22,8 +22,8 @@ mintty)
 	exit;;
 esac
 
-emojisurl0=https://www.unicode.org/emoji/charts/full-emoji-list.html
-emojisurl1=https://www.unicode.org/emoji/charts/full-emoji-modifiers.html
+emojisurl0=https://unicode-org.github.io/emoji/emoji/charts-16.0/full-emoji-list.html
+emojisurl1=https://unicode-org.github.io/emoji/emoji/charts-16.0/full-emoji-modifiers.html
 
 download () {
 	if $wgetfirst
