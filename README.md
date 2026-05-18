@@ -15,7 +15,7 @@ or
 ```bash
 mkdir emojis
 cd emojis
-curl -LO https://raw.githubusercontent.com/wiki/mintty/mintty/getemojis
+curl -LO https://raw.githubusercontent.com/JBlond/emojis/refs/heads/main/getemojis
 ./getemojis -d
 ./getemojis ./
 ```
