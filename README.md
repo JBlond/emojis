@@ -1,14 +1,14 @@
 # emojis
 
-into: 
+into:
 
 `C:\Program Files\Git\usr\share\mintty\emojis`
 
-or 
+or
 
 `C:\git-sdk-64\usr\share\mintty\emojis`
 
-[Download 1.4.1](https://github.com/JBlond/emojis/archive/refs/tags/1.4.1.zip)
+[Download 1.5.1](https://github.com/JBlond/emojis/archive/refs/tags/1.5.1.zip)
 
 ## OR make the emojis yourself
 
